@@ -1,0 +1,39 @@
+h2 {
+    font-family: "Arial Narrow", Arial, sans-serif;
+    font-size: 14px;
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid purple;
+    background-color: pink;
+    color: blue;
+}
+th, td {
+    padding: 8px;
+    border-collapse: collapse;
+    border: 3px solid purple;
+    text-align: center;
+}
+th {
+    font-family: "Arial Narrow", Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+td {
+    font-family: "Arial Narrow", Arial, sans-serif;
+    font-size: 14px;
+    
+}
+.courses{
+    font-family: "Century Gothic";
+    font-size: 14px;
+    text-align: left;
+    color: white;
+    background-color: blueviolet;
+    padding: 30px;
+    margin-top: 30px;
+}
